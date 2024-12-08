@@ -391,7 +391,7 @@
     </When>
     <Otherwise>
      <ItemGroup>
-       <PackageReference Include="Haley.Extensions" Version="2.2.6" />
+       <PackageReference Include="Haley.Extensions" Version="2.2.7" />
 	 </ItemGroup>
     </Otherwise>
 </Choose>  
